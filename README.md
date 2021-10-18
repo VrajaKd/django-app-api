@@ -1,6 +1,6 @@
-# recipe-app-api
-Recipe app api source code
+# django-app-api
 
+Django API for basic authentication and login.
 ##### Test
 
 ```
